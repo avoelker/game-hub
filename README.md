@@ -1,3 +1,3 @@
 # game-hub
 
-This project displays content from the RAWG.IO API, which show information about games.
+Game Hub allows you to search for games, using the rawg.io api.
